@@ -52,22 +52,22 @@ new
 
 ## 📸 Demo
 
-![Demo Screenshot](imgs/Demo1.png)
-**Adding a new Student**
-![Demo Screenshot](imgs/Demo3.png)
-**Showing all Students**
-![Demo Screenshot](imgs/Demo4.png)
-**Showing the highest grade**
-![Demo Screenshot](imgs/Demo5.png)
-**Showing the lowest grade**
-![Demo Screenshot](imgs/Demo6.png)
-**Showing Grade Average**
-![Demo Screenshot](imgs/Demo7.png)
-**Deleting s Student**
-![Demo Screenshot](imgs/Demo8.png)
-**Search for a Student**
-![Demo Screenshot](imgs/Demo9.png)
-**Exit the program**
+![Demo Screenshot](imgs/Demo1.png) <br>
+**Adding a new Student** <br>
+![Demo Screenshot](imgs/Demo3.png) <br>
+**Showing all Students** <br>
+![Demo Screenshot](imgs/Demo4.png) <br>
+**Showing the highest grade** <br>
+![Demo Screenshot](imgs/Demo5.png) <br>
+**Showing the lowest grade** <br>
+![Demo Screenshot](imgs/Demo6.png) <br>
+**Showing Grade Average** <br>
+![Demo Screenshot](imgs/Demo7.png) <br>
+**Deleting s Student** <br>
+![Demo Screenshot](imgs/Demo8.png) <br>
+**Search for a Student** <br>
+![Demo Screenshot](imgs/Demo9.png) <br>
+**Exit the program**<br>
 
 ## Contribution 🤝
 This is a beginner-friendly project.
