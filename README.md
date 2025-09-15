@@ -52,21 +52,21 @@ new
 
 ## 📸 Demo
 
-![Demo Screenshot](imgs/demo1.png)
+![Demo Screenshot](imgs/Demo1.png)
 **Adding a new Student**
-![Demo Screenshot](imgs/demo3.png)
+![Demo Screenshot](imgs/Demo3.png)
 **Showing all Students**
-![Demo Screenshot](imgs/demo4.png)
+![Demo Screenshot](imgs/Demo4.png)
 **Showing the highest grade**
-![Demo Screenshot](imgs/demo5.png)
+![Demo Screenshot](imgs/Demo5.png)
 **Showing the lowest grade**
-![Demo Screenshot](imgs/demo6.png)
+![Demo Screenshot](imgs/Demo6.png)
 **Showing Grade Average**
-![Demo Screenshot](imgs/demo7.png)
+![Demo Screenshot](imgs/Demo7.png)
 **Deleting s Student**
-![Demo Screenshot](imgs/demo8.png)
+![Demo Screenshot](imgs/Demo8.png)
 **Search for a Student**
-![Demo Screenshot](imgs/demo9.png)
+![Demo Screenshot](imgs/Demo9.png)
 **Exit the program**
 
 ## Contribution 🤝
